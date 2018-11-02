@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>Label</key>
-        <string>com.stopnoise.app</string>
+	<string>com.github.mhct.limitimacfanspeed</string>
         <key>ProgramArguments</key>
         <array>
             <string>/bin/bash</string>
